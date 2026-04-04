@@ -1,5 +1,5 @@
 # Discount-Fever
-# Discounting Impact Analysis in eCommerce (Work in Progress)
+# Discounting Analysis in eCommerce (Work in Progress)
 
 ## Project Overview
 This project analyzes how discounting strategies affect sales performance in an eCommerce environment. The goal is to provide stakeholders with a data-driven understanding of when discounts drive incremental revenue versus when they erode value.
@@ -19,7 +19,7 @@ The project aims to answer key business questions:
 
 - Do discounts generate incremental revenue or simply reduce margins?
 - Which product segments are most responsive to discounting?
-- How does discounting impact sales trends over time?
+- How does discounting affect sales trends over time?
 - Which discount codes or strategies are most effective?
 
 ## Analytical Approach
@@ -40,7 +40,7 @@ The notebook applies a structured analytical framework:
 ## Key Themes (Preliminary)
 - Discounts may drive short-term volume increases  
 - Price sensitivity varies significantly by segment  
-- A small number of discount codes often generate disproportionate impact  
+- A small number of discount codes often generate disproportionate effects  
 - Overuse of discounts may reduce overall revenue or profitability  
 
 ## Intended Audience
